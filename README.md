@@ -69,7 +69,7 @@ Usage examples are provided in the `examples` directory, with [instructions](exa
 
 ## Publications
 
-[0] [Graser, A. & Dragaschnig, M. (2025). Learning From Trajectory Data With MobiML. Workshop on Big Mobility Data Analysis (BMDA2025) in conjuction with EDBT/ICDT 2025.](https://ceur-ws.org/Vol-3946/BMDA-6.pdf)
+[0] [Graser, A. & Dragaschnig, M. (2025). Learning From Trajectory Data With MobiML. Workshop on Big Mobility Data Analysis (BMDA2025) in conjunction with EDBT/ICDT 2025.](https://ceur-ws.org/Vol-3946/BMDA-6.pdf)
 
 
 ## Acknowledgements
